@@ -39,7 +39,7 @@ class CyberHawk:
     ╚═════════════════════════════════════════════════════════════════════════════════╝{Style.RESET_ALL}
 
 {Fore.YELLOW}    Version: {self.version}                    Author: {self.author}
-    GitHub: https://github.com/cybersec/cyberhawk
+    GitHub: https://github.com/kanwarjitensingh/cyberhawk
     
     {Fore.GREEN}[+]{Style.RESET_ALL} Professional Network Reconnaissance Tool
     {Fore.GREEN}[+]{Style.RESET_ALL} Web Application Security Scanner  
