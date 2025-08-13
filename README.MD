@@ -45,7 +45,7 @@ sudo apt install python3 python3-pip python3-venv
 **For Kali Linux (2024/2025)**:
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cyberhawk.git
+git clone https://github.com/kanwarjitensingh/cyberhawk.git
 cd cyberhawk
 
 # Create and activate virtual environment
@@ -62,7 +62,7 @@ python cyberhawk.py -h
 **For Other Linux Distributions**:
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cyberhawk.git
+git clone https://github.com/kanwarjitensingh/cyberhawk.git
 cd cyberhawk
 
 # Install dependencies
@@ -78,7 +78,7 @@ python3 cyberhawk.py -h
 **For Windows**:
 ```cmd
 # Clone repository
-git clone https://github.com/yourusername/cyberhawk.git
+git clone https://github.com/kanwarjitensingh/cyberhawk.git
 cd cyberhawk
 
 # Install dependencies
@@ -265,12 +265,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **GitHub Repository**: https://github.com/yourusername/cyberhawk
-- **Bug Reports**: https://github.com/yourusername/cyberhawk/issues
-- **Documentation**: https://github.com/yourusername/cyberhawk/wiki
+- **GitHub Repository**: https://github.com/kanwarjitensingh/cyberhawk
+- **Bug Reports**: https://github.com/kanwarjitensingh/cyberhawk/issues
 
----
-
-**Made with ❤️ by the CyberSec Team**
 
 *"Professional security testing made simple."*
