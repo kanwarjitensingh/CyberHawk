@@ -18,7 +18,7 @@ init(autoreset=True)
 class CyberHawk:
     def __init__(self):
         self.version = "2.1.0"
-        self.author = "CyberSec Team"
+        self.author = "kanwarjitensingh"
         self.network_scanner = NetworkScanner()
         self.web_scanner = WebScanner()
         self.report_gen = ReportGenerator()
