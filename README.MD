@@ -8,8 +8,6 @@
 
 **Professional Network Reconnaissance & Web Vulnerability Assessment Tool**
 
-**Professional Network Reconnaissance & Web Vulnerability Assessment Tool**
-
 CyberHawk is a Python-based network security scanner designed for penetration testers, security researchers, and cybersecurity professionals. It provides separate scanning modes for network infrastructure and web applications, making it perfect for comprehensive security assessments.
 
 ## ✨ Features
